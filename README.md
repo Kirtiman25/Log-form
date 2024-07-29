@@ -15,4 +15,5 @@ Step 1: Download node.js
 https://nodejs.org/en
 step 2: 
 Install React using vite :
-<br> npm create vite@latest my-react-app -- --template react.
+<br>
+npm create vite@latest my-react-app -- --template react.
