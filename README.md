@@ -13,7 +13,7 @@ https://github.com/Kirtiman25/Log-form.git
 Step 1: Download node.js
 <br>
 https://nodejs.org/en
+<br>
 step 2: 
 Install React using vite :
-<br>
 npm create vite@latest my-react-app -- --template react.
