@@ -16,4 +16,4 @@ https://nodejs.org/en
 step 2: 
 Install React using vite :
 <br>
-<a href:"npm create vite@latest my-react-app -- --template react."
+<a npm create vite@latest my-react-app -- --template react.
